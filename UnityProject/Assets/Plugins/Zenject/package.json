@@ -1,7 +1,7 @@
   
 {
-	"name": "com.svermeulen.extenject",
-	"displayName": "Extenject",
+	"name": "com.modesttree.zenject",
+	"displayName": "Zenject",
 	"version": "0.0.1",
 	"description": "Dependency Injection Framework for Unity3D",
 	"dependencies": {}
